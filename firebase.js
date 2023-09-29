@@ -1,11 +1,9 @@
 import { initializeApp } from 'firebase/app'
 
 const app = initializeApp({
-  apiKey: "", // TODO
-  authDomain: "", // TODO
-  databaseURL: "", // TODO
-  projectId: "", // TODO
-  storageBucket: "" // TODO
+  apiKey: "AIzaSyAiYQbto9M9dOW1ztlReXJJcRub4sNlgno", 
+  authDomain: "esgi-hamza.firebaseapp.com	", 
+  projectId: "esgi-hamza",
 })
 
 export default app
